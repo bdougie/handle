@@ -1,0 +1,27 @@
+/*
+Font: 		Alliance No.2
+Style: 		ExtraBold
+URL: 		https://www.youworkforthem.com/font/T9667/alliance
+Foundry: 	Degarism Studio
+Foundry: 	https://www.youworkforthem.com/designer/869/degarism-studio
+Copyright:	Copyright © 2017 by Deni Anggara. All rights reserved.
+Version: 	17
+Created:	July 23, 2018
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'AllianceNo.2-ExtraBold';
+	src: url('alliance-no-2-extrabold.eot');
+	src: url('alliance-no-2-extrabold.eot?#iefix') format('embedded-opentype'),
+             url('alliance-no-2-extrabold.woff2') format('woff2'),
+	     url('alliance-no-2-extrabold.woff') format('woff'),
+	     url('alliance-no-2-extrabold.ttf') format('truetype'),
+	     url('alliance-no-2-extrabold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
